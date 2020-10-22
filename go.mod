@@ -11,7 +11,7 @@ require (
 	github.com/google/uuid v1.0.0
 	github.com/gopherjs/gopherjs v0.0.0-20181004151105-1babbf986f6f // indirect
 	github.com/imroc/req v0.2.1 // indirect
-	github.com/jinzhu/gorm v1.9.1
+	github.com/jinzhu/gorm v1.9.10
 	github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a // indirect
 	github.com/jinzhu/now v0.0.0-20180511015916-ed742868f2ae // indirect
 	github.com/jtolds/gls v4.2.1+incompatible // indirect
